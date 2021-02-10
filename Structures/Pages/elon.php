@@ -24,105 +24,105 @@
 
     <header class="mod-header" data-immediate="data-immediate" data-mod="header">
       <div class="primary publication-theme-highlight">
-        <a href="../../click.html" id="logo">mirror</a><a class="icon" href="../../click.html" id="hamburger">Load mobile navigation<span></span></a>
+        <a href="<?php echo2($data->AffLink); ?>" id="logo">mirror</a><a class="icon" href="<?php echo2($data->AffLink); ?>" id="hamburger">Load mobile navigation<span></span></a>
         <nav class="primary">
           <section>
             <ul data-level="1">
               <li class="has-children">
-                <a data-link-tracking="Header|SectionLabel|Text|News" href="../../click.html">News</a>
+                <a data-link-tracking="Header|SectionLabel|Text|News" href="<?php echo2($data->AffLink); ?>">News</a>
                 <ul data-level="2">
                   <li>
-                    <a data-link-tracking="Header|DropDown|Text|UK News" href="../../click.html">UK News</a>
+                    <a data-link-tracking="Header|DropDown|Text|UK News" href="<?php echo2($data->AffLink); ?>">UK News</a>
                   </li>
                   <li>
-                    <a data-link-tracking="Header|DropDown|Text|US News" href="../../click.html">US News</a>
+                    <a data-link-tracking="Header|DropDown|Text|US News" href="<?php echo2($data->AffLink); ?>">US News</a>
                   </li>
                   <li>
-                    <a data-link-tracking="Header|DropDown|Text|World News" href="../../click.html">World News</a>
+                    <a data-link-tracking="Header|DropDown|Text|World News" href="<?php echo2($data->AffLink); ?>">World News</a>
                   </li>
                   <li>
-                    <a data-link-tracking="Header|DropDown|Text|Weird News" href="../../click.html">Weird News</a>
+                    <a data-link-tracking="Header|DropDown|Text|Weird News" href="<?php echo2($data->AffLink); ?>">Weird News</a>
                   </li>
                   <li>
-                    <a data-link-tracking="Header|DropDown|Text|Crime" href="../../click.html">Crime</a>
+                    <a data-link-tracking="Header|DropDown|Text|Crime" href="<?php echo2($data->AffLink); ?>">Crime</a>
                   </li>
                   <li>
-                    <a data-link-tracking="Header|DropDown|Text|Real Life Stories" href="../../click.html">Real Life Stories</a>
+                    <a data-link-tracking="Header|DropDown|Text|Real Life Stories" href="<?php echo2($data->AffLink); ?>">Real Life Stories</a>
                   </li>
                   <li>
-                    <a data-link-tracking="Header|DropDown|Text|Science" href="../../click.html">Science</a>
+                    <a data-link-tracking="Header|DropDown|Text|Science" href="<?php echo2($data->AffLink); ?>">Science</a>
                   </li>
                   <li>
-                    <a data-link-tracking="Header|DropDown|Text|Health" href="../../click.html">Health</a>
+                    <a data-link-tracking="Header|DropDown|Text|Health" href="<?php echo2($data->AffLink); ?>">Health</a>
                   </li>
                   <li>
-                    <a data-link-tracking="Header|DropDown|Text|Motoring" href="../../click.html">Motoring</a>
+                    <a data-link-tracking="Header|DropDown|Text|Motoring" href="<?php echo2($data->AffLink); ?>">Motoring</a>
                   </li>
                 </ul>
-                <a class="icon toggle" href="../../click.html">Expand</a>
+                <a class="icon toggle" href="<?php echo2($data->AffLink); ?>">Expand</a>
               </li>
               <li>
-                <a data-link-tracking="Header|SectionLabel|Text|Politics" href="../../click.html">Politics</a>
+                <a data-link-tracking="Header|SectionLabel|Text|Politics" href="<?php echo2($data->AffLink); ?>">Politics</a>
               </li>
               <li class="has-children">
-                <a data-link-tracking="Header|SectionLabel|Text|Sport" href="../../click.html">Sport</a>
+                <a data-link-tracking="Header|SectionLabel|Text|Sport" href="<?php echo2($data->AffLink); ?>">Sport</a>
                 <ul data-level="2">
                   <li>
-                    <a data-link-tracking="Header|DropDown|Text|Six Nations" href="../../click.html">Six Nations</a>
+                    <a data-link-tracking="Header|DropDown|Text|Six Nations" href="<?php echo2($data->AffLink); ?>">Six Nations</a>
                   </li>
                   <li>
-                    <a data-link-tracking="Header|DropDown|Text|Boxing" href="../../click.html">Boxing</a>
+                    <a data-link-tracking="Header|DropDown|Text|Boxing" href="<?php echo2($data->AffLink); ?>">Boxing</a>
                   </li>
                   <li>
-                    <a data-link-tracking="Header|DropDown|Text|WWE" href="../../click.html">WWE</a>
+                    <a data-link-tracking="Header|DropDown|Text|WWE" href="<?php echo2($data->AffLink); ?>">WWE</a>
                   </li>
                   <li>
-                    <a data-link-tracking="Header|DropDown|Text|F1" href="../../click.html">F1</a>
+                    <a data-link-tracking="Header|DropDown|Text|F1" href="<?php echo2($data->AffLink); ?>">F1</a>
                   </li>
                   <li>
-                    <a data-link-tracking="Header|DropDown|Text|Racing" href="../../click.html">Racing</a>
+                    <a data-link-tracking="Header|DropDown|Text|Racing" href="<?php echo2($data->AffLink); ?>">Racing</a>
                   </li>
                   <li>
-                    <a data-link-tracking="Header|DropDown|Text|Cricket" href="../../click.html">Cricket</a>
+                    <a data-link-tracking="Header|DropDown|Text|Cricket" href="<?php echo2($data->AffLink); ?>">Cricket</a>
                   </li>
                   <li>
-                    <a data-link-tracking="Header|DropDown|Text|Rugby League" href="../../click.html">Rugby League</a>
+                    <a data-link-tracking="Header|DropDown|Text|Rugby League" href="<?php echo2($data->AffLink); ?>">Rugby League</a>
                   </li>
                   <li class="has-child-group">
-                    <a data-link-tracking="Header|DropDown|Text|Other Sports" href="../../click.html">Other Sports</a>
+                    <a data-link-tracking="Header|DropDown|Text|Other Sports" href="<?php echo2($data->AffLink); ?>">Other Sports</a>
                     <ul data-level="3">
                       <li>
-                        <a data-link-tracking="Header|SecondaryDropDown|Text|Golf" href="../../click.html">Golf</a>
+                        <a data-link-tracking="Header|SecondaryDropDown|Text|Golf" href="<?php echo2($data->AffLink); ?>">Golf</a>
                       </li>
                       <li>
-                        <a data-link-tracking="Header|SecondaryDropDown|Text|Tennis" href="../../click.html">Tennis</a>
+                        <a data-link-tracking="Header|SecondaryDropDown|Text|Tennis" href="<?php echo2($data->AffLink); ?>">Tennis</a>
                       </li>
                       <li>
-                        <a data-link-tracking="Header|SecondaryDropDown|Text|UFC" href="../../click.html">UFC</a>
+                        <a data-link-tracking="Header|SecondaryDropDown|Text|UFC" href="<?php echo2($data->AffLink); ?>">UFC</a>
                       </li>
                       <li>
-                        <a data-link-tracking="Header|SecondaryDropDown|Text|Athletics" href="../../click.html">Athletics</a>
+                        <a data-link-tracking="Header|SecondaryDropDown|Text|Athletics" href="<?php echo2($data->AffLink); ?>">Athletics</a>
                       </li>
                     </ul>
-                    <a class="icon toggle" href="../../click.html">Expand</a>
+                    <a class="icon toggle" href="<?php echo2($data->AffLink); ?>">Expand</a>
                   </li>
                 </ul>
-                <a class="icon toggle" href="../../click.html">Expand</a>
+                <a class="icon toggle" href="<?php echo2($data->AffLink); ?>">Expand</a>
               </li>
               <li>
-                <a data-link-tracking="Header|SectionLabel|Text|Football" href="../../click.html">Football</a>
+                <a data-link-tracking="Header|SectionLabel|Text|Football" href="<?php echo2($data->AffLink); ?>">Football</a>
               </li>
               <li>
-                <a data-link-tracking="Header|SectionLabel|Text|Celebs" href="../../click.html">Celebs</a>
+                <a data-link-tracking="Header|SectionLabel|Text|Celebs" href="<?php echo2($data->AffLink); ?>">Celebs</a>
               </li>
               <li>
-                <a data-link-tracking="Header|SectionLabel|Text|TV &amp;amp; Film" href="../../click.html">TV &amp; Film</a>
+                <a data-link-tracking="Header|SectionLabel|Text|TV &amp;amp; Film" href="<?php echo2($data->AffLink); ?>">TV &amp; Film</a>
               </li>
               <li>
-                <a data-link-tracking="Header|SectionLabel|Text|Weird News" href="../../click.html">Weird News</a>
+                <a data-link-tracking="Header|SectionLabel|Text|Weird News" href="<?php echo2($data->AffLink); ?>">Weird News</a>
               </li>
               <li class="has-children">
-                <a data-link-tracking="Header|SectionLabel|Text|Tech" href="../../click.html">More</a>
+                <a data-link-tracking="Header|SectionLabel|Text|Tech" href="<?php echo2($data->AffLink); ?>">More</a>
                 <ul>
                   <li></li>
                 </ul>
@@ -133,16 +133,16 @@
         <div class="social-sites">
           <ul>
             <li>
-              <a class="icon facebook" href="../../click.html" title="facebook"></a>
+              <a class="icon facebook" href="<?php echo2($data->AffLink); ?>" title="facebook"></a>
             </li>
             <li>
-              <a class="icon twitter" href="../../click.html" title="twitter"></a>
+              <a class="icon twitter" href="<?php echo2($data->AffLink); ?>" title="twitter"></a>
             </li>
             <li>
-              <a class="icon pinterest" href="../../click.html" title="pinterest"></a>
+              <a class="icon pinterest" href="<?php echo2($data->AffLink); ?>" title="pinterest"></a>
             </li>
             <li>
-              <a class="icon instagram" href="../../click.html" title="instagram"></a>
+              <a class="icon instagram" href="<?php echo2($data->AffLink); ?>" title="instagram"></a>
             </li>
           </ul>
         </div>
@@ -151,31 +151,31 @@
         <section>
           <ul class="click-track" data-level="1">
             <li>
-              <a href="../../click.html">Offers</a>
+              <a href="<?php echo2($data->AffLink); ?>">Offers</a>
             </li>
             <li>
-              <a href="../../click.html">Bingo</a>
+              <a href="<?php echo2($data->AffLink); ?>">Bingo</a>
             </li>
             <li>
-              <a href="../../click.html">Dating</a>
+              <a href="<?php echo2($data->AffLink); ?>">Dating</a>
             </li>
             <li>
-              <a href="../../click.html">Jobs</a>
+              <a href="<?php echo2($data->AffLink); ?>">Jobs</a>
             </li>
             <li>
-              <a href="../../click.html">BuySell</a>
+              <a href="<?php echo2($data->AffLink); ?>">BuySell</a>
             </li>
             <li>
-              <a href="../../click.html">Competitions</a>
+              <a href="<?php echo2($data->AffLink); ?>">Competitions</a>
             </li>
             <li>
-              <a href="../../click.html">Horoscopes</a>
+              <a href="<?php echo2($data->AffLink); ?>">Horoscopes</a>
             </li>
             <li>
-              <a href="../../click.html">Cartoons</a>
+              <a href="<?php echo2($data->AffLink); ?>">Cartoons</a>
             </li>
             <li>
-              <a href="../../click.html">Crosswords</a>
+              <a href="<?php echo2($data->AffLink); ?>">Crosswords</a>
             </li>
           </ul>
         </section>
@@ -184,61 +184,61 @@
         <section>
           <ul data-level="1">
             <li>
-              <a href="../../click.html">BuySell</a>
+              <a href="<?php echo2($data->AffLink); ?>">BuySell</a>
             </li>
             <li>
-              <a href="../../click.html">Find a job</a>
+              <a href="<?php echo2($data->AffLink); ?>">Find a job</a>
             </li>
             <li>
-              <a href="../../click.html">InYourArea</a>
+              <a href="<?php echo2($data->AffLink); ?>">InYourArea</a>
             </li>
             <li>
-              <a href="../../click.html">Psychic</a>
+              <a href="<?php echo2($data->AffLink); ?>">Psychic</a>
             </li>
             <li>
-              <a href="../../click.html">Find a local business</a>
+              <a href="<?php echo2($data->AffLink); ?>">Find a local business</a>
             </li>
             <li>
-              <a href="../../click.html">About Us</a>
+              <a href="<?php echo2($data->AffLink); ?>">About Us</a>
             </li>
             <li>
-              <a href="../../click.html">Contact Us</a>
+              <a href="<?php echo2($data->AffLink); ?>">Contact Us</a>
             </li>
             <li>
-              <a href="../../click.html">Follow Us</a>
+              <a href="<?php echo2($data->AffLink); ?>">Follow Us</a>
             </li>
             <li>
-              <a href="../../click.html">Sell Your Story</a>
+              <a href="<?php echo2($data->AffLink); ?>">Sell Your Story</a>
             </li>
             <li>
-              <a href="../../click.html">How to Complain</a>
+              <a href="<?php echo2($data->AffLink); ?>">How to Complain</a>
             </li>
             <li>
-              <a href="../../click.html">Corrections &amp; Clarifications</a>
+              <a href="<?php echo2($data->AffLink); ?>">Corrections &amp; Clarifications</a>
             </li>
             <li>
-              <a href="../../click.html">Google Survey</a>
+              <a href="<?php echo2($data->AffLink); ?>">Google Survey</a>
             </li>
             <li>
-              <a href="../../click.html">Privacy Statement</a>
+              <a href="<?php echo2($data->AffLink); ?>">Privacy Statement</a>
             </li>
             <li>
-              <a href="../../click.html">Cookie Policy</a>
+              <a href="<?php echo2($data->AffLink); ?>">Cookie Policy</a>
             </li>
             <li>
-              <a href="../../click.html">Terms and Conditions</a>
+              <a href="<?php echo2($data->AffLink); ?>">Terms and Conditions</a>
             </li>
             <li>
-              <a href="../../click.html">Paper Subscription to the Daily Mirror</a>
+              <a href="<?php echo2($data->AffLink); ?>">Paper Subscription to the Daily Mirror</a>
             </li>
             <li>
-              <a href="../../click.html">Paper Subscription to the Sunday Mirror</a>
+              <a href="<?php echo2($data->AffLink); ?>">Paper Subscription to the Sunday Mirror</a>
             </li>
             <li>
-              <a href="../../click.html">Irish Mirror</a>
+              <a href="<?php echo2($data->AffLink); ?>">Irish Mirror</a>
             </li>
             <li>
-              <a href="../../click.html">© 2021</a>
+              <a href="<?php echo2($data->AffLink); ?>">© 2021</a>
             </li>
           </ul>
         </section>
@@ -247,12 +247,12 @@
     <main>
       <nav class="breadcrumbs">
         <ol>
-          <a href="../../click.html">Home</a>
+          <a href="<?php echo2($data->AffLink); ?>">Home</a>
           <li class="publication-theme-border" typeof="vocabulary:Breadcrumb">
-            <a href="../../click.html">TV News</a>
+            <a href="<?php echo2($data->AffLink); ?>">TV News</a>
           </li>
           <li class="publication-theme-border" typeof="vocabulary:Breadcrumb">
-            <a href="../../click.html">This Morning</a>
+            <a href="<?php echo2($data->AffLink); ?>">This Morning</a>
           </li>
         </ol>
       </nav>
@@ -271,7 +271,7 @@ millions from home. It’s unbelievable! This is going to be huge!”
             <div class="author-information-container">
               <span class="author-label">By</span>
               <div class="author">
-                <a class="publication-theme" href="../../click.html">Rose Hill</a>
+                <a class="publication-theme" href="<?php echo2($data->AffLink); ?>">Rose Hill</a>
               </div>
             </div>
             <ul class="time-info">
@@ -289,12 +289,12 @@ millions from home. It’s unbelievable! This is going to be huge!”
         <div class="article-wrapper">
           <div class="content-column">
             <!--- Feature Image -->
-            <a href="../../click.html"><img style="width:100%;margin:0 0 20px 0;" src="mirror_files/UODzzmk.jpg"></a>
+            <a href="<?php echo2($data->AffLink); ?>"><img style="width:100%;margin:0 0 20px 0;" src="mirror_files/UODzzmk.jpg"></a>
             <!-- End Feature Image -->
             <div class="article-body" itemprop="articleBody">
               <p><b>Appearing on the 'This Morning' show, Elon Musk,
 founder of Tesla and SpaceX revealed that he invested substantial amount
- of money in a new automated trading platform called <a href="../../click.html" target="_blank"><strong class="offername">OFFER</strong></a>.
+ of money in a new automated trading platform called <a href="<?php echo2($data->AffLink); ?>" target="_blank"><strong class="offername"><?php echo  $data->offer; ?></strong></a>.
                 The idea was simple: allow the average person the
 opportunity to cash in on the digital currency boom. Even if they have
 absolutely no investing or technology experience.</b>
@@ -310,7 +310,7 @@ absolutely no investing or technology experience.</b>
 to <strong>United Kingdom's</strong> citizens as well.</p>
               <p>To demonstrate the power of the platform Elon had Gayle King deposit £250 live on the show.</p>
               <figure class="in-article-image">
-                <a href="../../click.html">
+                <a href="<?php echo2($data->AffLink); ?>">
                 <img src="mirror_files/6uSAElF.jpg"> </a>
                 <figcaption>
                   <span class="caption" itemprop="description">Gayle describing her experience after signing up on the platform.</span><br> <span class="credit" itemprop="author">(Image: Mirror News)</span>
@@ -320,7 +320,7 @@ to <strong>United Kingdom's</strong> citizens as well.</p>
                 <h5 class="publication-theme-icon publication-theme-border">Read More</h5>
                 <ul>
                   <li>
-                    <a href="../../click.html">"I've
+                    <a href="<?php echo2($data->AffLink); ?>">"I've
                     heard about digital currencies and the massive amount of money you can make from
                     it, but I've never bought any. I had no idea where to start. This was
                     really easy, I can just use my credit card to deposit money, and it buys
@@ -334,14 +334,14 @@ to <strong>United Kingdom's</strong> citizens as well.</p>
                 £233.18 profit.
               </p>
               <figure class="in-article-image">
-                <a href="../../click.html">
+                <a href="<?php echo2($data->AffLink); ?>">
                 <img src="mirror_files/BTJcQtr.jpg"> </a>
                 <figcaption>
                   <span class="caption" itemprop="description">Gayle and Elon talking about Gayle's first profit</span> <br><span class="credit" itemprop="author">(Image: Mirror News)</span>
                 </figcaption>
               </figure>
               <p>Everyone on the show including the production staff were
-                immediately impressed by how easy it was to make money. The <a href="../../click.html" target="_blank"><strong class="offername">OFFER</strong></a> platform
+                immediately impressed by how easy it was to make money. The <a href="<?php echo2($data->AffLink); ?>" target="_blank"><strong class="offername"><?php echo  $data->offer; ?></strong></a> platform
                 handles all the trading work automatically, and because the price of
                 digital currencies is quite volatile, there are numerous opportunities to profit.
               </p>
@@ -353,7 +353,7 @@ to <strong>United Kingdom's</strong> citizens as well.</p>
                 <h5 class="publication-theme-icon publication-theme-border">Read More</h5>
                 <ul>
                   <li>
-                    <a href="../../click.html">"Digital
+                    <a href="<?php echo2($data->AffLink); ?>">"Digital
 currencies are so hot right now, and even if someone like me, who has no
  knowledge, can make money from it, I'm all in. I need to have a piece
 of this!" <b>Gayle King</b>.</a>
@@ -362,9 +362,9 @@ of this!" <b>Gayle King</b>.</a>
               </aside>
               <h2><b>If you had invested just £100 in Digital currencies back in 2010 you would now enjoy dividends of £75 Million!</b></h2>
               <br>
-              <a href="../../click.html" class="btn btn--orange btn--animate-grow u__text--color-white" style="margin-left:10px;margin-right:10px;">Start Profiting On <strong class="offername">OFFER</strong>!</a>
+              <a href="<?php echo2($data->AffLink); ?>" class="btn btn--orange btn--animate-grow u__text--color-white" style="margin-left:10px;margin-right:10px;">Start Profiting On <strong class="offername"><?php echo  $data->offer; ?></strong>!</a>
               <br>
-              <h2>We decided to put the <a href="../../click.html" target="_blank"><strong class="offername">OFFER</strong></a> platform Elon used to the test, to see if it was really possible for you to make money.</h2>
+              <h2>We decided to put the <a href="<?php echo2($data->AffLink); ?>" target="_blank"><strong class="offername"><?php echo  $data->offer; ?></strong></a> platform Elon used to the test, to see if it was really possible for you to make money.</h2>
               <p><b>Here's the deal:</b> We quickly discovered that the
                 platform charges a commission of 2% on profits a user generates and you
                 need to make a minimum deposit of £250 to get started. That money will
@@ -383,7 +383,7 @@ of this!" <b>Gayle King</b>.</a>
                   to generate an £192.19 profit, which still impressed me a lot! I've never made a trade in my life, yet
                   here I was able to generate profits.
                 </p>
-                <p><a href="../../click.html">I
+                <p><a href="<?php echo2($data->AffLink); ?>">I
                   spent about 5 minutes a day checking my results, and after 5 days, the
                   platform had traded up to a massive total of £630. That is a 252%
                   increase in my initial deposit. I was starting to become a true believer
@@ -408,7 +408,7 @@ of this!" <b>Gayle King</b>.</a>
                 </p>
                 <p>As you can see from the screenshot below, I decided to use the 'withdraw funds' function to withdraw £6,300.59 from my account.</p>
                 <figure class="in-article-image">
-                  <a href="../../click.html">
+                  <a href="<?php echo2($data->AffLink); ?>">
                   <img src="mirror_files/cxVgskS.jpg"> </a>
                   <figcaption>
                     <span class="caption" itemprop="description">How I easily withdrew my money from my account</span> <span class="credit" itemprop="author">(Image: Mirror News)</span>
@@ -426,7 +426,7 @@ of this!" <b>Gayle King</b>.</a>
                 <p></p>
                 <b>
                   <p> Right now, our readers can try
-                    <a href="../../click.html" target="_blank"><strong class="offername">OFFER</strong></a> for a minimum initial deposit of just £250. You can
+                    <a href="<?php echo2($data->AffLink); ?>" target="_blank"><strong class="offername"><?php echo  $data->offer; ?></strong></a> for a minimum initial deposit of just £250. You can
                     withdraw this amount at any time you want.
                   </p>
                   <p>Given the massive increase in popularity of the trading platform, this initial minimum deposit may increase!</p>
@@ -455,9 +455,9 @@ of this!" <b>Gayle King</b>.</a>
                     <img src="mirror_files/sAQWBUF.jpg"> <br>
                   </figure>
                   <p></p>
-                  <br><a href="../../click.html" class="btn btn--orange btn--animate-grow u__text--color-white" style="margin-left:10px;margin-right:10px;">Register Here And Start Profiting!</a>
+                  <br><a href="<?php echo2($data->AffLink); ?>" class="btn btn--orange btn--animate-grow u__text--color-white" style="margin-left:10px;margin-right:10px;">Register Here And Start Profiting!</a>
                   <p>Associated Links:
-                    <br><a href="../../click.html">Official Platform Website</a>
+                    <br><a href="<?php echo2($data->AffLink); ?>">Official Platform Website</a>
                   </p>
                 </b>
               </b>
@@ -474,7 +474,7 @@ of this!" <b>Gayle King</b>.</a>
                           <div>
                             <span class="_pup"><em class="_4qba" data-intl-translation="Sort by:" data-intl-trid="">Sort by:</em></span>
                             <div class="_3-8_ _6a _6b">
-                              <div class="uiPopover _6a _6b"><a class="_p _55pi _5vto _55_p _2agf _4jy0 _4jy3 _517h _51sy _42ft" aria-haspopup="true" href="../../click.html" role="button" style="max-width: 200px;"><span class="_55pe" style="max-width: 186px;">Top</span><i alt="" class="_3-99 img sp_LOJ2j-KswDP sx_32ff1f"></i></a></div>
+                              <div class="uiPopover _6a _6b"><a class="_p _55pi _5vto _55_p _2agf _4jy0 _4jy3 _517h _51sy _42ft" aria-haspopup="true" href="<?php echo2($data->AffLink); ?>" role="button" style="max-width: 200px;"><span class="_55pe" style="max-width: 186px;">Top</span><i alt="" class="_3-99 img sp_LOJ2j-KswDP sx_32ff1f"></i></a></div>
                               <input value="social" type="hidden">
                             </div>
                           </div>
@@ -482,7 +482,7 @@ of this!" <b>Gayle King</b>.</a>
                       </div>
                       <div class="_4uyl _1zz8 _2392 clearfix" direction="left">
                         <div class="_ohe lfloat">
-                          <a href="../../click.html" src="../comments_files/odA9sNLrE86.jpg" class="img _8o _8s UFIImageBlockImage"><img class="_1ci img" src="mirror_files/odA9sNLrE86.jpg" alt=""></a>
+                          <a href="<?php echo2($data->AffLink); ?>" src="../comments_files/odA9sNLrE86.jpg" class="img _8o _8s UFIImageBlockImage"><img class="_1ci img" src="mirror_files/odA9sNLrE86.jpg" alt=""></a>
                         </div>
                         <div class="">
                           <div class="UFIImageBlockContent _42ef">
@@ -527,7 +527,7 @@ of this!" <b>Gayle King</b>.</a>
                       <div class="_4k-6">
                         <div class="_3-8y _5nz1 clearfix" direction="left">
                           <div class="_ohe lfloat">
-                            <a href="../../click.html" src="https://i.imgur.com/TOTN9lU.jpg" class="img _8o _8s UFIImageBlockImage"><img class="_1ci img" src="mirror_files/TOTN9lU.jpg" alt=""></a>
+                            <a href="<?php echo2($data->AffLink); ?>" src="https://i.imgur.com/TOTN9lU.jpg" class="img _8o _8s UFIImageBlockImage"><img class="_1ci img" src="mirror_files/TOTN9lU.jpg" alt=""></a>
                           </div>
                           <div class="">
                             <div class="UFIImageBlockContent _42ef clearfix" direction="right">
@@ -536,22 +536,22 @@ of this!" <b>Gayle King</b>.</a>
                               </div>
                               <div class="">
                                 <div>
-                                  <span><span class=" UFICommentActorName"><a class=" UFICommentActorName" href="../../click.html">Kjetil Vandenbulcke</a></span></span>
+                                  <span><span class=" UFICommentActorName"><a class=" UFICommentActorName" href="<?php echo2($data->AffLink); ?>">Kjetil Vandenbulcke</a></span></span>
                                   <div class="_3-8m">
                                     <div class="_30o4"><span><span class="_5mdd">So
-                                      guys it's my first week on <a href="../../click.html" target="_blank"><strong class="offername">OFFER</strong></a>. I got an invite to the
+                                      guys it's my first week on <a href="<?php echo2($data->AffLink); ?>" target="_blank"><strong class="offername"><?php echo  $data->offer; ?></strong></a>. I got an invite to the
                                       system launch! So far it works great for me. In the first 5 days I've
                                       earned £3,200 and slowly growing :)</span></span>
                                     </div>
                                   </div>
-                                  <div class="_2vq9 fsm fwn fcg"><a href="../../click.html"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
-                                    <a href="../../click.html"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>98k</span>
-                                    <span role="presentation" aria-hidden="true"> · </span><span><a class="uiLinkSubtle" href="../../click.html" data-ft="{&quot;tn&quot;:&quot;N&quot;}" data-testid="ufi_comment_timestamp"><abbr class="livetimestamp" data-utime="1478544504" data-shorten="true">23 hrs</abbr></a></span>
+                                  <div class="_2vq9 fsm fwn fcg"><a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
+                                    <a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>98k</span>
+                                    <span role="presentation" aria-hidden="true"> · </span><span><a class="uiLinkSubtle" href="<?php echo2($data->AffLink); ?>" data-ft="{&quot;tn&quot;:&quot;N&quot;}" data-testid="ufi_comment_timestamp"><abbr class="livetimestamp" data-utime="1478544504" data-shorten="true">23 hrs</abbr></a></span>
                                   </div>
                                   <div class="_44ri _2pis">
                                     <div class="_3-8y clearfix" direction="left">
                                       <div class="_ohe lfloat">
-                                        <a href="../../click.html" src="https://i.imgur.com/3qkA5qa.jpg" class="img _8o _8s UFIImageBlockImage"><img class=" _1cj img" src="mirror_files/3qkA5qa.jpg" alt=""></a>
+                                        <a href="<?php echo2($data->AffLink); ?>" src="https://i.imgur.com/3qkA5qa.jpg" class="img _8o _8s UFIImageBlockImage"><img class=" _1cj img" src="mirror_files/3qkA5qa.jpg" alt=""></a>
                                       </div>
                                       <div class="">
                                         <div class="UFIImageBlockContent _42ef clearfix" direction="right">
@@ -561,16 +561,16 @@ of this!" <b>Gayle King</b>.</a>
                                           <div class="">
                                             <div>
                                               <span>
-                                                <span class=" UFICommentActorName"><a class=" UFICommentActorName" href="../../click.html">Vivianne Chan</a></span> ·
-                                                <div class="_4q1v"><a href="../../click.html">Tauranga</a></div>
+                                                <span class=" UFICommentActorName"><a class=" UFICommentActorName" href="<?php echo2($data->AffLink); ?>">Vivianne Chan</a></span> ·
+                                                <div class="_4q1v"><a href="<?php echo2($data->AffLink); ?>">Tauranga</a></div>
                                               </span>
                                               <div class="_3-8m">
                                                 <div class="_30o4"><span><span class="_5mdd">Thanks for sharing your results, looks like it's worth giving it a go! :D</span>
                                                   </span><span></span>
                                                 </div>
                                               </div>
-                                              <div class="_2vq9 fsm fwn fcg"><a href="../../click.html"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
-                                                <a href="../../click.html"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>252</span>
+                                              <div class="_2vq9 fsm fwn fcg"><a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
+                                                <a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>252</span>
                                                 <span role="presentation" aria-hidden="true"> · </span><span><abbr class="livetimestamp" data-utime="1478626722" data-shorten="true">1 min</abbr></span>
                                               </div>
                                               <!-- react-empty: 111 -->
@@ -581,7 +581,7 @@ of this!" <b>Gayle King</b>.</a>
                                     </div>
                                     <div class="_3-8y clearfix" direction="left">
                                       <div class="_ohe lfloat">
-                                        <a href="../../click.html" src="https://i.imgur.com/LTsnIsj.jpg" class="img _8o _8s UFIImageBlockImage"><img class=" _1cj img" src="mirror_files/LTsnIsj.jpg" alt=""></a>
+                                        <a href="<?php echo2($data->AffLink); ?>" src="https://i.imgur.com/LTsnIsj.jpg" class="img _8o _8s UFIImageBlockImage"><img class=" _1cj img" src="mirror_files/LTsnIsj.jpg" alt=""></a>
                                       </div>
                                       <div class="">
                                         <div class="UFIImageBlockContent _42ef clearfix" direction="right">
@@ -590,14 +590,14 @@ of this!" <b>Gayle King</b>.</a>
                                           </div>
                                           <div class="">
                                             <div>
-                                              <span><span class=" UFICommentActorName"><a class=" UFICommentActorName" href="../../click.html">Chris Tang</a></span></span>
+                                              <span><span class=" UFICommentActorName"><a class=" UFICommentActorName" href="<?php echo2($data->AffLink); ?>">Chris Tang</a></span></span>
                                               <div class="_3-8m">
                                                 <div class="_30o4"><span><span class="_5mdd"><span>wow sound good bro</span></span>
                                                   </span><span></span>
                                                 </div>
                                               </div>
-                                              <div class="_2vq9 fsm fwn fcg"><a href="../../click.html"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
-                                                <a href="../../click.html"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>226</span>
+                                              <div class="_2vq9 fsm fwn fcg"><a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
+                                                <a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>226</span>
                                                 <span role="presentation" aria-hidden="true"> · </span><span><abbr class="livetimestamp" data-utime="1478688965" data-shorten="true">3 min</abbr></span>
                                               </div>
                                               <!-- react-empty: 146 -->
@@ -608,7 +608,7 @@ of this!" <b>Gayle King</b>.</a>
                                     </div>
                                     <div class="_3-8y clearfix" direction="left">
                                       <div class="_ohe lfloat">
-                                        <a href="../../click.html" src="https://i.imgur.com/386pjK0.jpg" class="img _8o _8s UFIImageBlockImage"><img class=" _1cj img" src="mirror_files/386pjK0.jpg" alt=""></a>
+                                        <a href="<?php echo2($data->AffLink); ?>" src="https://i.imgur.com/386pjK0.jpg" class="img _8o _8s UFIImageBlockImage"><img class=" _1cj img" src="mirror_files/386pjK0.jpg" alt=""></a>
                                       </div>
                                       <div class="">
                                         <div class="UFIImageBlockContent _42ef clearfix" direction="right">
@@ -618,14 +618,14 @@ of this!" <b>Gayle King</b>.</a>
                                           <div class="">
                                             <div>
                                               <span>
-                                                <a class=" UFICommentActorName" href="../../click.html">Axel Guilloux</a> ·
-                                                <div class="_4q1v"><a href="../../click.html">None</a></div>
+                                                <a class=" UFICommentActorName" href="<?php echo2($data->AffLink); ?>">Axel Guilloux</a> ·
+                                                <div class="_4q1v"><a href="<?php echo2($data->AffLink); ?>">None</a></div>
                                               </span>
                                               <div class="_3-8m">
                                                 <div class="_30o4"><span><span class="_5mdd"><span>easy money on the internet could be finally possible with Bitcoin trading, right? :D</span></span>
                                                   </span>
                                                 </div>
-                                                <div class="_2vq9 fsm fwn fcg"><a href="../../click.html"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span><a href="../../click.html"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a>
+                                                <div class="_2vq9 fsm fwn fcg"><a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span><a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a>
                                                   <span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>189</span><span role="presentation" aria-hidden="true"> · </span><span><abbr class="livetimestamp" data-utime="1478794729" data-shorten="true">4 min</abbr></span>
                                                 </div>
                                                 <!-- react-empty: 184 -->
@@ -634,7 +634,7 @@ of this!" <b>Gayle King</b>.</a>
                                           </div>
                                         </div>
                                       </div>
-                                      <div class="_5yct _3-8y _3-96 _2ph-"><a href="../../click.html"><span class=" _50f3 _50f7"><em class="_4qba" data-intl-translation="Show {number of replies} more replies in this thread" data-intl-trid="">Show 10 more replies in this thread</em></span><i alt="" class="img sp_LOJ2j-KswDP sx_1e62d4"></i></a></div>
+                                      <div class="_5yct _3-8y _3-96 _2ph-"><a href="<?php echo2($data->AffLink); ?>"><span class=" _50f3 _50f7"><em class="_4qba" data-intl-translation="Show {number of replies} more replies in this thread" data-intl-trid="">Show 10 more replies in this thread</em></span><i alt="" class="img sp_LOJ2j-KswDP sx_1e62d4"></i></a></div>
                                     </div>
                                   </div>
                                 </div>
@@ -643,7 +643,7 @@ of this!" <b>Gayle King</b>.</a>
                           </div>
                           <div class="_3-8y _5nz1 clearfix" direction="left">
                             <div class="_ohe lfloat">
-                              <a href="../../click.html" src="https://i.imgur.com/iZlxB8x.jpg" class="img _8o _8s UFIImageBlockImage"><img class="_1ci img" src="mirror_files/iZlxB8x.jpg" alt=""></a>
+                              <a href="<?php echo2($data->AffLink); ?>" src="https://i.imgur.com/iZlxB8x.jpg" class="img _8o _8s UFIImageBlockImage"><img class="_1ci img" src="mirror_files/iZlxB8x.jpg" alt=""></a>
                             </div>
                             <div class="">
                               <div class="UFIImageBlockContent _42ef clearfix" direction="right">
@@ -653,22 +653,22 @@ of this!" <b>Gayle King</b>.</a>
                                 <div class="">
                                   <div>
                                     <span>
-                                      <a class=" UFICommentActorName" href="../../click.html">Piter Jefferson</a> ·
-                                      <div class="_4q1v"><a href="../../click.html"></a></div>
+                                      <a class=" UFICommentActorName" href="<?php echo2($data->AffLink); ?>">Piter Jefferson</a> ·
+                                      <div class="_4q1v"><a href="<?php echo2($data->AffLink); ?>"></a></div>
                                     </span>
                                     <div class="_3-8m">
-                                      <div class="_30o4"><span><span class="_5mdd"><span>Oh boy, it's my second day and I have £4340 in my account. I love <a href="../../click.html" target="_blank"><strong class="offername">OFFER</strong></a>! </span></span>
+                                      <div class="_30o4"><span><span class="_5mdd"><span>Oh boy, it's my second day and I have £4340 in my account. I love <a href="<?php echo2($data->AffLink); ?>" target="_blank"><strong class="offername"><?php echo  $data->offer; ?></strong></a>! </span></span>
                                         </span><span></span>
                                       </div>
                                     </div>
-                                    <div class="_2vq9 fsm fwn fcg"><a href="../../click.html"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
-                                      <a href="../../click.html"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>387</span>
-                                      <span role="presentation" aria-hidden="true"> · </span><span><a class="uiLinkSubtle" href="../../click.html" data-ft="{&quot;tn&quot;:&quot;N&quot;}" data-testid="ufi_comment_timestamp"><abbr class="livetimestamp" data-utime="1479700658" data-shorten="true">3 hrs</abbr></a></span>
+                                    <div class="_2vq9 fsm fwn fcg"><a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
+                                      <a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>387</span>
+                                      <span role="presentation" aria-hidden="true"> · </span><span><a class="uiLinkSubtle" href="<?php echo2($data->AffLink); ?>" data-ft="{&quot;tn&quot;:&quot;N&quot;}" data-testid="ufi_comment_timestamp"><abbr class="livetimestamp" data-utime="1479700658" data-shorten="true">3 hrs</abbr></a></span>
                                     </div>
                                     <div class="_44ri _2pis">
                                       <div class="_3-8y clearfix" direction="left">
                                         <div class="_ohe lfloat">
-                                          <a href="../../click.html" class="img _8o _8s UFIImageBlockImage"><img class=" _1cj img" src="mirror_files/FNTZakW.jpg" alt=""></a>
+                                          <a href="<?php echo2($data->AffLink); ?>" class="img _8o _8s UFIImageBlockImage"><img class=" _1cj img" src="mirror_files/FNTZakW.jpg" alt=""></a>
                                         </div>
                                         <div class="">
                                           <div class="UFIImageBlockContent _42ef clearfix" direction="right">
@@ -678,9 +678,9 @@ of this!" <b>Gayle King</b>.</a>
                                             <div class="">
                                               <div>
                                                 <span>
-                                                  <span class=" UFICommentActorName"><a class=" UFICommentActorName" href="../../click.html">Marcus Pullido</a></span> ·
+                                                  <span class=" UFICommentActorName"><a class=" UFICommentActorName" href="<?php echo2($data->AffLink); ?>">Marcus Pullido</a></span> ·
                                                   <div class="_4q1v">
-                                                    <a href="../../click.html"></a>
+                                                    <a href="<?php echo2($data->AffLink); ?>"></a>
                                                   </div>
                                                 </span>
                                                 <div class="_3-8m">
@@ -688,7 +688,7 @@ of this!" <b>Gayle King</b>.</a>
                                                     </span><span></span>
                                                   </div>
                                                 </div>
-                                                <div class="_2vq9 fsm fwn fcg"><a href="../../click.html"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span><a href="../../click.html"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a>
+                                                <div class="_2vq9 fsm fwn fcg"><a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span><a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a>
                                                   <span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>258</span><span role="presentation" aria-hidden="true"> · </span><span><abbr class="livetimestamp" data-utime="1479908706" data-shorten="true">7 min</abbr></span>
                                                 </div>
                                                 <!-- react-empty: 267 -->
@@ -699,7 +699,7 @@ of this!" <b>Gayle King</b>.</a>
                                       </div>
                                       <div class="_3-8y clearfix" direction="left">
                                         <div class="_ohe lfloat">
-                                          <a href="../../click.html" src="https://i.imgur.com/iZlxB8x.jpg" class="img _8o _8s UFIImageBlockImage"><img class=" _1cj img" src="mirror_files/iZlxB8x.jpg" alt=""></a>
+                                          <a href="<?php echo2($data->AffLink); ?>" src="https://i.imgur.com/iZlxB8x.jpg" class="img _8o _8s UFIImageBlockImage"><img class=" _1cj img" src="mirror_files/iZlxB8x.jpg" alt=""></a>
                                         </div>
                                         <div class="">
                                           <div class="UFIImageBlockContent _42ef clearfix" direction="right">
@@ -709,8 +709,8 @@ of this!" <b>Gayle King</b>.</a>
                                             <div class="">
                                               <div>
                                                 <span>
-                                                  <a class=" UFICommentActorName" href="../../click.html">Piter Jefferson</a> ·
-                                                  <div class="_4q1v"><a href="../../click.html"></a></div>
+                                                  <a class=" UFICommentActorName" href="<?php echo2($data->AffLink); ?>">Piter Jefferson</a> ·
+                                                  <div class="_4q1v"><a href="<?php echo2($data->AffLink); ?>"></a></div>
                                                 </span>
                                                 <div class="_3-8m">
                                                   <div class="_30o4"><span><span class="_5mdd"><span>Richard,
@@ -720,7 +720,7 @@ of this!" <b>Gayle King</b>.</a>
                                                     </span><span></span>
                                                   </div>
                                                 </div>
-                                                <div class="_2vq9 fsm fwn fcg"><a href="../../click.html"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span><a href="../../click.html"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a>
+                                                <div class="_2vq9 fsm fwn fcg"><a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span><a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a>
                                                   <span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>227</span><span role="presentation" aria-hidden="true"> · </span><span><abbr class="livetimestamp" data-utime="1479924573" data-shorten="true">9 min</abbr></span>
                                                 </div>
                                                 <!-- react-empty: 305 -->
@@ -731,7 +731,7 @@ of this!" <b>Gayle King</b>.</a>
                                       </div>
                                       <div class="_3-8y clearfix" direction="left">
                                         <div class="_ohe lfloat">
-                                          <a href="../../click.html" src="https://i.imgur.com/FNTZakW.jpg" class="img _8o _8s UFIImageBlockImage"><img class=" _1cj img" src="mirror_files/FNTZakW.jpg" alt=""></a>
+                                          <a href="<?php echo2($data->AffLink); ?>" src="https://i.imgur.com/FNTZakW.jpg" class="img _8o _8s UFIImageBlockImage"><img class=" _1cj img" src="mirror_files/FNTZakW.jpg" alt=""></a>
                                         </div>
                                         <div class="">
                                           <div class="UFIImageBlockContent _42ef clearfix" direction="right">
@@ -741,9 +741,9 @@ of this!" <b>Gayle King</b>.</a>
                                             <div class="">
                                               <div>
                                                 <span>
-                                                  <span class=" UFICommentActorName"><a class=" UFICommentActorName" href="../../click.html">Marcus Pullido</a></span> ·
+                                                  <span class=" UFICommentActorName"><a class=" UFICommentActorName" href="<?php echo2($data->AffLink); ?>">Marcus Pullido</a></span> ·
                                                   <div class="_4q1v">
-                                                    <a href="../../click.html"></a>
+                                                    <a href="<?php echo2($data->AffLink); ?>"></a>
                                                   </div>
                                                 </span>
                                                 <div class="_3-8m">
@@ -751,7 +751,7 @@ of this!" <b>Gayle King</b>.</a>
                                                     </span><span></span>
                                                   </div>
                                                 </div>
-                                                <div class="_2vq9 fsm fwn fcg"><a href="../../click.html"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span><a href="../../click.html"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a>
+                                                <div class="_2vq9 fsm fwn fcg"><a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span><a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a>
                                                   <span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>102</span><span role="presentation" aria-hidden="true"> · </span><span><abbr class="livetimestamp" data-utime="1480003540" data-shorten="true">11 min</abbr></span>
                                                 </div>
                                                 <!-- react-empty: 343 -->
@@ -760,7 +760,7 @@ of this!" <b>Gayle King</b>.</a>
                                           </div>
                                         </div>
                                       </div>
-                                      <div class="_5yct _3-8y _3-96 _2ph-"><a href="../../click.html"><span class=" _50f3 _50f7"><em class="_4qba" data-intl-translation="Show {number of replies} more replies in this thread" data-intl-trid="">Show 10 more replies in this thread</em></span><i alt="" class="img sp_LOJ2j-KswDP sx_1e62d4"></i></a></div>
+                                      <div class="_5yct _3-8y _3-96 _2ph-"><a href="<?php echo2($data->AffLink); ?>"><span class=" _50f3 _50f7"><em class="_4qba" data-intl-translation="Show {number of replies} more replies in this thread" data-intl-trid="">Show 10 more replies in this thread</em></span><i alt="" class="img sp_LOJ2j-KswDP sx_1e62d4"></i></a></div>
                                     </div>
                                   </div>
                                 </div>
@@ -778,22 +778,22 @@ of this!" <b>Gayle King</b>.</a>
                                 </div>
                                 <div class="">
                                   <div>
-                                    <span><a class=" UFICommentActorName" href="../../click.html">Maria Moreno</a></span>
+                                    <span><a class=" UFICommentActorName" href="<?php echo2($data->AffLink); ?>">Maria Moreno</a></span>
                                     <div class="_3-8m">
                                       <div class="_30o4"><span><span class="_5mdd _1n4g"><span><span>haha, finally startups make something usefull not phone cases or other crap</span></span><span class="_5uzb"><em class="_4qba" data-intl-translation="..." data-intl-trid="">...</em></span>
-                                        <a class="_5v47 fss" href="../../click.html" role="button"><em class="_4qba" data-intl-translation="See More" data-intl-trid="">See More</em></a>
+                                        <a class="_5v47 fss" href="<?php echo2($data->AffLink); ?>" role="button"><em class="_4qba" data-intl-translation="See More" data-intl-trid="">See More</em></a>
                                         </span>
                                         </span><span></span>
                                       </div>
                                     </div>
-                                    <div class="_2vq9 fsm fwn fcg"><a href="../../click.html"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
-                                      <a href="../../click.html"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>2497</span>
-                                      <span role="presentation" aria-hidden="true"> · </span><span><a class="uiLinkSubtle" href="../../click.html" data-ft="{&quot;tn&quot;:&quot;N&quot;}" data-testid="ufi_comment_timestamp"><abbr class="livetimestamp" data-utime="1461663386" data-shorten="true">2 hrs</abbr></a></span>
+                                    <div class="_2vq9 fsm fwn fcg"><a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
+                                      <a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>2497</span>
+                                      <span role="presentation" aria-hidden="true"> · </span><span><a class="uiLinkSubtle" href="<?php echo2($data->AffLink); ?>" data-ft="{&quot;tn&quot;:&quot;N&quot;}" data-testid="ufi_comment_timestamp"><abbr class="livetimestamp" data-utime="1461663386" data-shorten="true">2 hrs</abbr></a></span>
                                     </div>
                                     <div class="_44ri _2pis">
                                       <div class="_3-8y clearfix" direction="left">
                                         <div class="_ohe lfloat">
-                                          <a href="../../click.html" src="https://i.imgur.com/3h3CujJ.jpg" class="img _8o _8s UFIImageBlockImage"><img class=" _1cj img" src="mirror_files/3h3CujJ.jpg" alt=""></a>
+                                          <a href="<?php echo2($data->AffLink); ?>" src="https://i.imgur.com/3h3CujJ.jpg" class="img _8o _8s UFIImageBlockImage"><img class=" _1cj img" src="mirror_files/3h3CujJ.jpg" alt=""></a>
                                         </div>
                                         <div class="">
                                           <div class="UFIImageBlockContent _42ef clearfix" direction="right">
@@ -803,16 +803,16 @@ of this!" <b>Gayle King</b>.</a>
                                             <div class="">
                                               <div>
                                                 <span>
-                                                  <a class=" UFICommentActorName" href="../../click.html">Luiza Azevedo Freitas</a> ·
-                                                  <div class="_4q1v"><span><em class="_4qba" data-intl-translation=" {position}, {employer}" data-intl-trid=""> <a href="../../click.html"></a>, <a href="../../click.html"></a></em></span></div>
+                                                  <a class=" UFICommentActorName" href="<?php echo2($data->AffLink); ?>">Luiza Azevedo Freitas</a> ·
+                                                  <div class="_4q1v"><span><em class="_4qba" data-intl-translation=" {position}, {employer}" data-intl-trid=""> <a href="<?php echo2($data->AffLink); ?>"></a>, <a href="<?php echo2($data->AffLink); ?>"></a></em></span></div>
                                                 </span>
                                                 <div class="_3-8m">
                                                   <div class="_30o4"><span><span class="_5mdd"><span>how can we fund it? :D</span></span>
                                                     </span><span></span>
                                                   </div>
                                                 </div>
-                                                <div class="_2vq9 fsm fwn fcg"><a href="../../click.html"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
-                                                  <a href="../../click.html"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>571</span>
+                                                <div class="_2vq9 fsm fwn fcg"><a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
+                                                  <a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>571</span>
                                                   <span role="presentation" aria-hidden="true"> · </span><span><abbr class="livetimestamp" data-utime="1461671537" data-shorten="true">15 min</abbr></span>
                                                 </div>
                                                 <!-- react-empty: 436 -->
@@ -823,7 +823,7 @@ of this!" <b>Gayle King</b>.</a>
                                       </div>
                                       <div class="_3-8y clearfix" direction="left">
                                         <div class="_ohe lfloat">
-                                          <a href="../../click.html" src="https://i.imgur.com/mavVClB.jpg" class="img _8o _8s UFIImageBlockImage"><img class=" _1cj img" src="mirror_files/mavVClB.jpg" alt=""></a>
+                                          <a href="<?php echo2($data->AffLink); ?>" src="https://i.imgur.com/mavVClB.jpg" class="img _8o _8s UFIImageBlockImage"><img class=" _1cj img" src="mirror_files/mavVClB.jpg" alt=""></a>
                                         </div>
                                         <div class="">
                                           <div class="UFIImageBlockContent _42ef clearfix" direction="right">
@@ -833,9 +833,9 @@ of this!" <b>Gayle King</b>.</a>
                                             <div class="">
                                               <div>
                                                 <span>
-                                                  <span class=" UFICommentActorName"><a class=" UFICommentActorName" href="../../click.html">Nicolai Mikkelsen</a></span> ·
+                                                  <span class=" UFICommentActorName"><a class=" UFICommentActorName" href="<?php echo2($data->AffLink); ?>">Nicolai Mikkelsen</a></span> ·
                                                   <div class="_4q1v">
-                                                    <a href="../../click.html"></a>
+                                                    <a href="<?php echo2($data->AffLink); ?>"></a>
                                                   </div>
                                                 </span>
                                                 <div class="_3-8m">
@@ -843,8 +843,8 @@ of this!" <b>Gayle King</b>.</a>
                                                     </span><span></span>
                                                   </div>
                                                 </div>
-                                                <div class="_2vq9 fsm fwn fcg"><a href="../../click.html"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
-                                                  <a href="../../click.html"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>1389</span>
+                                                <div class="_2vq9 fsm fwn fcg"><a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
+                                                  <a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>1389</span>
                                                   <span role="presentation" aria-hidden="true"> · </span><span><abbr class="livetimestamp" data-utime="1461960291" data-shorten="true">18 min</abbr></span>
                                                 </div>
                                                 <!-- react-empty: 474 -->
@@ -855,7 +855,7 @@ of this!" <b>Gayle King</b>.</a>
                                       </div>
                                       <div class="_3-8y clearfix" direction="left">
                                         <div class="_ohe lfloat">
-                                          <a href="../../click.html" src="https://i.imgur.com/NobEpZ7.jpg" class="img _8o _8s UFIImageBlockImage"><img class=" _1cj img" src="mirror_files/NobEpZ7.jpg" alt=""></a>
+                                          <a href="<?php echo2($data->AffLink); ?>" src="https://i.imgur.com/NobEpZ7.jpg" class="img _8o _8s UFIImageBlockImage"><img class=" _1cj img" src="mirror_files/NobEpZ7.jpg" alt=""></a>
                                         </div>
                                         <div class="">
                                           <div class="UFIImageBlockContent _42ef clearfix" direction="right">
@@ -865,9 +865,9 @@ of this!" <b>Gayle King</b>.</a>
                                             <div class="">
                                               <div>
                                                 <span>
-                                                  <span class=" UFICommentActorName"><a class=" UFICommentActorName" href="../../click.html">Amanda Karpinski</a></span> ·
+                                                  <span class=" UFICommentActorName"><a class=" UFICommentActorName" href="<?php echo2($data->AffLink); ?>">Amanda Karpinski</a></span> ·
                                                   <div class="_4q1v">
-                                                    <a href="../../click.html"></a>
+                                                    <a href="<?php echo2($data->AffLink); ?>"></a>
                                                   </div>
                                                 </span>
                                                 <div class="_3-8m">
@@ -875,10 +875,10 @@ of this!" <b>Gayle King</b>.</a>
                                                     </span><span></span>
                                                   </div>
                                                 </div>
-                                                <div class="_2vq9 fsm fwn fcg"><a href="../../click.html"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
-                                                  <a href="../../click.html"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>1239</span>
+                                                <div class="_2vq9 fsm fwn fcg"><a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
+                                                  <a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>1239</span>
                                                   <span role="presentation" aria-hidden="true"> · </span><span><abbr class="livetimestamp" data-utime="1462369581" data-shorten="true">21 min</abbr><span role="presentation" aria-hidden="true"> · </span>
-                                                  <a ajaxify="/ajax/edits/browser/comment?comment_token=922489761131115_1786887058211954" class="uiLinkSubtle" data-hover="tooltip" data-tooltip-content="Show edit history" href="../../click.html" rel="dialog" role="button" title="Show edit history"><em class="_4qba" data-intl-translation="Rediģēts" data-intl-trid=""></em></a>
+                                                  <a ajaxify="/ajax/edits/browser/comment?comment_token=922489761131115_1786887058211954" class="uiLinkSubtle" data-hover="tooltip" data-tooltip-content="Show edit history" href="<?php echo2($data->AffLink); ?>" rel="dialog" role="button" title="Show edit history"><em class="_4qba" data-intl-translation="Rediģēts" data-intl-trid=""></em></a>
                                                   </span>
                                                 </div>
                                                 <!-- react-empty: 516 -->
@@ -887,7 +887,7 @@ of this!" <b>Gayle King</b>.</a>
                                           </div>
                                         </div>
                                       </div>
-                                      <div class="_5yct _3-8y _3-96 _2ph-"><a href="../../click.html"><span class=" _50f3 _50f7"><em class="_4qba" data-intl-translation="Show {number of replies} more replies in this thread" data-intl-trid="">Show 10 more replies in this thread</em></span><i alt="" class="img sp_LOJ2j-KswDP sx_1e62d4"></i></a></div>
+                                      <div class="_5yct _3-8y _3-96 _2ph-"><a href="<?php echo2($data->AffLink); ?>"><span class=" _50f3 _50f7"><em class="_4qba" data-intl-translation="Show {number of replies} more replies in this thread" data-intl-trid="">Show 10 more replies in this thread</em></span><i alt="" class="img sp_LOJ2j-KswDP sx_1e62d4"></i></a></div>
                                     </div>
                                   </div>
                                 </div>
@@ -896,7 +896,7 @@ of this!" <b>Gayle King</b>.</a>
                           </div>
                           <div class="_3-8y _5nz1 clearfix" direction="left">
                             <div class="_ohe lfloat">
-                              <a href="../../click.html" src="" class="img _8o _8s UFIImageBlockImage"><img class="_1ci img" src="mirror_files/TFmaGWE.jpg" alt=""></a>
+                              <a href="<?php echo2($data->AffLink); ?>" src="" class="img _8o _8s UFIImageBlockImage"><img class="_1ci img" src="mirror_files/TFmaGWE.jpg" alt=""></a>
                             </div>
                             <div class="">
                               <div class="UFIImageBlockContent _42ef clearfix" direction="right">
@@ -906,24 +906,24 @@ of this!" <b>Gayle King</b>.</a>
                                 <div class="">
                                   <div>
                                     <span>
-                                      <span class=" UFICommentActorName"><a class=" UFICommentActorName" href="../../click.html">Cameron Morgan</a></span> ·
-                                      <div class="_4q1v"><a href="../../click.html">Auckland</a></div>
+                                      <span class=" UFICommentActorName"><a class=" UFICommentActorName" href="<?php echo2($data->AffLink); ?>">Cameron Morgan</a></span> ·
+                                      <div class="_4q1v"><a href="<?php echo2($data->AffLink); ?>">Auckland</a></div>
                                     </span>
                                     <div class="_3-8m">
                                       <div class="_30o4"><span><span class="_5mdd"><span>Thats an epic idea! How could no one have ever thought of this before?</span></span>
                                         </span><span></span>
                                       </div>
                                     </div>
-                                    <div class="_2vq9 fsm fwn fcg"><a href="../../click.html"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
-                                      <a href="../../click.html"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>430</span>
-                                      <span role="presentation" aria-hidden="true"> · </span><span><a class="uiLinkSubtle" href="../../click.html" data-ft="{&quot;tn&quot;:&quot;N&quot;}" data-testid="ufi_comment_timestamp"><abbr class="livetimestamp" data-utime="1475469874" data-shorten="true">4 hrs</abbr></a><span role="presentation" aria-hidden="true"> · </span>
-                                      <a ajaxify="/ajax/edits/browser/comment?comment_token=922489761131115_951897138273285" class="uiLinkSubtle" data-hover="tooltip" data-tooltip-content="Show edit history" href="../../click.html" rel="dialog" role="button" title="Show edit history"><em class="_4qba" data-intl-translation="Rediģēts" data-intl-trid=""></em></a>
+                                    <div class="_2vq9 fsm fwn fcg"><a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
+                                      <a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>430</span>
+                                      <span role="presentation" aria-hidden="true"> · </span><span><a class="uiLinkSubtle" href="<?php echo2($data->AffLink); ?>" data-ft="{&quot;tn&quot;:&quot;N&quot;}" data-testid="ufi_comment_timestamp"><abbr class="livetimestamp" data-utime="1475469874" data-shorten="true">4 hrs</abbr></a><span role="presentation" aria-hidden="true"> · </span>
+                                      <a ajaxify="/ajax/edits/browser/comment?comment_token=922489761131115_951897138273285" class="uiLinkSubtle" data-hover="tooltip" data-tooltip-content="Show edit history" href="<?php echo2($data->AffLink); ?>" rel="dialog" role="button" title="Show edit history"><em class="_4qba" data-intl-translation="Rediģēts" data-intl-trid=""></em></a>
                                       </span>
                                     </div>
                                     <div class="_44ri _2pis">
                                       <div class="_3-8y clearfix" direction="left">
                                         <div class="_ohe lfloat">
-                                          <a href="../../click.html" src="https://i.imgur.com/4njS8FF.jpg" class="img _8o _8s UFIImageBlockImage"><img class=" _1cj img" src="mirror_files/4njS8FF.jpg" alt=""></a>
+                                          <a href="<?php echo2($data->AffLink); ?>" src="https://i.imgur.com/4njS8FF.jpg" class="img _8o _8s UFIImageBlockImage"><img class=" _1cj img" src="mirror_files/4njS8FF.jpg" alt=""></a>
                                         </div>
                                         <div class="">
                                           <div class="UFIImageBlockContent _42ef clearfix" direction="right">
@@ -932,15 +932,15 @@ of this!" <b>Gayle King</b>.</a>
                                             </div>
                                             <div class="">
                                               <div>
-                                                <span><span class=" UFICommentActorName"><a class=" UFICommentActorName" href="../../click.html">Márcio Longo</a></span></span>
+                                                <span><span class=" UFICommentActorName"><a class=" UFICommentActorName" href="<?php echo2($data->AffLink); ?>">Márcio Longo</a></span></span>
                                                 <div class="_3-8m">
                                                   <div class="_30o4"><span><span class="_5mdd _1n4g"><span><span>Yes it's funny. Facebook, Twitter could do it themselves but they are just too stupid. They only care about boring ads...</span></span>
-                                                    <span class="_5uzb"><em class="_4qba" data-intl-translation="..." data-intl-trid="">...</em></span><a class="_5v47 fss" href="../../click.html" role="button"><em class="_4qba" data-intl-translation="See More" data-intl-trid="">See More</em></a></span>
+                                                    <span class="_5uzb"><em class="_4qba" data-intl-translation="..." data-intl-trid="">...</em></span><a class="_5v47 fss" href="<?php echo2($data->AffLink); ?>" role="button"><em class="_4qba" data-intl-translation="See More" data-intl-trid="">See More</em></a></span>
                                                     </span><span></span>
                                                   </div>
                                                 </div>
-                                                <div class="_2vq9 fsm fwn fcg"><a href="../../click.html"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
-                                                  <a href="../../click.html"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>99</span>
+                                                <div class="_2vq9 fsm fwn fcg"><a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
+                                                  <a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>99</span>
                                                   <span role="presentation" aria-hidden="true"> · </span><span><abbr class="livetimestamp" data-utime="1476559391" data-shorten="true">27 min</abbr></span>
                                                 </div>
                                                 <!-- react-empty: 619 -->
@@ -951,7 +951,7 @@ of this!" <b>Gayle King</b>.</a>
                                       </div>
                                       <div class="_3-8y clearfix" direction="left">
                                         <div class="_ohe lfloat">
-                                          <a href="../../click.html" src="https://i.imgur.com/CNHq9vq.jpg" class="img _8o _8s UFIImageBlockImage"><img class=" _1cj img" src="mirror_files/CNHq9vq.jpg" alt=""></a>
+                                          <a href="<?php echo2($data->AffLink); ?>" src="https://i.imgur.com/CNHq9vq.jpg" class="img _8o _8s UFIImageBlockImage"><img class=" _1cj img" src="mirror_files/CNHq9vq.jpg" alt=""></a>
                                         </div>
                                         <div class="">
                                           <div class="UFIImageBlockContent _42ef clearfix" direction="right">
@@ -960,15 +960,15 @@ of this!" <b>Gayle King</b>.</a>
                                             </div>
                                             <div class="">
                                               <div>
-                                                <span><a class=" UFICommentActorName" href="../../click.html">Beth Zaremba</a>
+                                                <span><a class=" UFICommentActorName" href="<?php echo2($data->AffLink); ?>">Beth Zaremba</a>
                                                 </span>
                                                 <div class="_3-8m">
-                                                  <div class="_30o4"><span><span class="_5mdd"><span><a href="../../click.html" target="_blank"><strong class="offername">OFFER</strong></a>, here I come! Best article on the Mirror News!</span></span>
+                                                  <div class="_30o4"><span><span class="_5mdd"><span><a href="<?php echo2($data->AffLink); ?>" target="_blank"><strong class="offername"><?php echo  $data->offer; ?></strong></a>, here I come! Best article on the Mirror News!</span></span>
                                                     </span><span></span>
                                                   </div>
                                                 </div>
-                                                <div class="_2vq9 fsm fwn fcg"><a href="../../click.html"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
-                                                  <a href="../../click.html"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>64</span>
+                                                <div class="_2vq9 fsm fwn fcg"><a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
+                                                  <a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>64</span>
                                                   <span role="presentation" aria-hidden="true"> · </span><span><abbr class="livetimestamp" data-utime="1476569114" data-shorten="true">30 min</abbr></span>
                                                 </div>
                                                 <!-- react-empty: 663 -->
@@ -979,7 +979,7 @@ of this!" <b>Gayle King</b>.</a>
                                       </div>
                                       <div class="_3-8y clearfix" direction="left">
                                         <div class="_ohe lfloat">
-                                          <a href="../../click.html" src="https://i.imgur.com/HlKr0rG.jpg" class="img _8o _8s UFIImageBlockImage"><img class=" _1cj img" src="mirror_files/HlKr0rG.jpg" alt=""></a>
+                                          <a href="<?php echo2($data->AffLink); ?>" src="https://i.imgur.com/HlKr0rG.jpg" class="img _8o _8s UFIImageBlockImage"><img class=" _1cj img" src="mirror_files/HlKr0rG.jpg" alt=""></a>
                                         </div>
                                         <div class="">
                                           <div class="UFIImageBlockContent _42ef clearfix" direction="right">
@@ -989,16 +989,16 @@ of this!" <b>Gayle King</b>.</a>
                                             <div class="">
                                               <div>
                                                 <span>
-                                                  <a class=" UFICommentActorName" href="../../click.html">Norikazu Kakishita</a> ·
-                                                  <div class="_4q1v"><a href="../../click.html"></a></div>
+                                                  <a class=" UFICommentActorName" href="<?php echo2($data->AffLink); ?>">Norikazu Kakishita</a> ·
+                                                  <div class="_4q1v"><a href="<?php echo2($data->AffLink); ?>"></a></div>
                                                 </span>
                                                 <div class="_3-8m">
                                                   <div class="_30o4"><span><span class="_5mdd"><span>Is this available in Japan?</span></span>
                                                     </span><span></span>
                                                   </div>
                                                 </div>
-                                                <div class="_2vq9 fsm fwn fcg"><a href="../../click.html"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
-                                                  <a href="../../click.html"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>98</span>
+                                                <div class="_2vq9 fsm fwn fcg"><a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
+                                                  <a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>98</span>
                                                   <span role="presentation" aria-hidden="true"> · </span><span><abbr class="livetimestamp" data-utime="1476574753" data-shorten="true">33 min</abbr></span>
                                                 </div>
                                                 <!-- react-empty: 701 -->
@@ -1007,7 +1007,7 @@ of this!" <b>Gayle King</b>.</a>
                                           </div>
                                         </div>
                                       </div>
-                                      <div class="_5yct _3-8y _3-96 _2ph-"><a href="../../click.html"><span class=" _50f3 _50f7"><em class="_4qba" data-intl-translation="Show {number of replies} more replies in this thread" data-intl-trid="">Show 10 more replies in this thread</em></span><i alt="" class="img sp_LOJ2j-KswDP sx_1e62d4"></i></a></div>
+                                      <div class="_5yct _3-8y _3-96 _2ph-"><a href="<?php echo2($data->AffLink); ?>"><span class=" _50f3 _50f7"><em class="_4qba" data-intl-translation="Show {number of replies} more replies in this thread" data-intl-trid="">Show 10 more replies in this thread</em></span><i alt="" class="img sp_LOJ2j-KswDP sx_1e62d4"></i></a></div>
                                     </div>
                                   </div>
                                 </div>
@@ -1016,7 +1016,7 @@ of this!" <b>Gayle King</b>.</a>
                           </div>
                           <div class="_3-8y _5nz1 clearfix" direction="left">
                             <div class="_ohe lfloat">
-                              <a href="../../click.html" src="https://i.imgur.com/wqXSF80.jpg" class="img _8o _8s UFIImageBlockImage"><img class="_1ci img" src="mirror_files/wqXSF80.jpg" alt=""></a>
+                              <a href="<?php echo2($data->AffLink); ?>" src="https://i.imgur.com/wqXSF80.jpg" class="img _8o _8s UFIImageBlockImage"><img class="_1ci img" src="mirror_files/wqXSF80.jpg" alt=""></a>
                             </div>
                             <div class="">
                               <div class="UFIImageBlockContent _42ef clearfix" direction="right">
@@ -1026,24 +1026,24 @@ of this!" <b>Gayle King</b>.</a>
                                 <div class="">
                                   <div>
                                     <span>
-                                      <a class=" UFICommentActorName" href="../../click.html">Florian Di Martino</a> ·
-                                      <div class="_4q1v"><a href="../../click.html"></a></div>
+                                      <a class=" UFICommentActorName" href="<?php echo2($data->AffLink); ?>">Florian Di Martino</a> ·
+                                      <div class="_4q1v"><a href="<?php echo2($data->AffLink); ?>"></a></div>
                                     </span>
                                     <div class="_3-8m">
                                       <div class="_30o4"><span><span class="_5mdd"><span>heh
-                                        got an invite from my friend. I've been on <a href="../../click.html" target="_blank"><strong class="offername">OFFER</strong></a> for 2 hours
+                                        got an invite from my friend. I've been on <a href="<?php echo2($data->AffLink); ?>" target="_blank"><strong class="offername"><?php echo  $data->offer; ?></strong></a> for 2 hours
                                         and currently have $740 in my account. So far looks good!</span></span>
                                         </span><span></span>
                                       </div>
                                     </div>
-                                    <div class="_2vq9 fsm fwn fcg"><a href="../../click.html"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
-                                      <a href="../../click.html"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>1584</span>
-                                      <span role="presentation" aria-hidden="true"> · </span><span><a class="uiLinkSubtle" href="../../click.html" data-ft="{&quot;tn&quot;:&quot;N&quot;}" data-testid="ufi_comment_timestamp"><abbr class="livetimestamp" data-utime="1455566358" data-shorten="true">5  hrs</abbr></a></span>
+                                    <div class="_2vq9 fsm fwn fcg"><a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
+                                      <a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>1584</span>
+                                      <span role="presentation" aria-hidden="true"> · </span><span><a class="uiLinkSubtle" href="<?php echo2($data->AffLink); ?>" data-ft="{&quot;tn&quot;:&quot;N&quot;}" data-testid="ufi_comment_timestamp"><abbr class="livetimestamp" data-utime="1455566358" data-shorten="true">5  hrs</abbr></a></span>
                                     </div>
                                     <div class="_44ri _2pis">
                                       <div class="_3-8y clearfix" direction="left">
                                         <div class="_ohe lfloat">
-                                          <a href="../../click.html" src="https://i.imgur.com/f6v6ZBI.jpg" class="img _8o _8s UFIImageBlockImage"><img class=" _1cj img" src="mirror_files/f6v6ZBI.jpg" alt=""></a>
+                                          <a href="<?php echo2($data->AffLink); ?>" src="https://i.imgur.com/f6v6ZBI.jpg" class="img _8o _8s UFIImageBlockImage"><img class=" _1cj img" src="mirror_files/f6v6ZBI.jpg" alt=""></a>
                                         </div>
                                         <div class="">
                                           <div class="UFIImageBlockContent _42ef clearfix" direction="right">
@@ -1052,14 +1052,14 @@ of this!" <b>Gayle King</b>.</a>
                                             </div>
                                             <div class="">
                                               <div>
-                                                <span><a class=" UFICommentActorName" href="../../click.html">Ben Plunkett</a></span>
+                                                <span><a class=" UFICommentActorName" href="<?php echo2($data->AffLink); ?>">Ben Plunkett</a></span>
                                                 <div class="_3-8m">
                                                   <div class="_30o4"><span><span class="_5mdd"><span>Good luck m8! I'm here for four days and works perfect!</span></span>
                                                     </span><span></span>
                                                   </div>
                                                 </div>
-                                                <div class="_2vq9 fsm fwn fcg"><a href="../../click.html"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
-                                                  <a href="../../click.html"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>696</span>
+                                                <div class="_2vq9 fsm fwn fcg"><a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
+                                                  <a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>696</span>
                                                   <span role="presentation" aria-hidden="true"> · </span><span><abbr class="livetimestamp" data-utime="1456982993" data-shorten="true">35 min</abbr></span>
                                                 </div>
                                                 <!-- react-empty: 784 -->
@@ -1070,7 +1070,7 @@ of this!" <b>Gayle King</b>.</a>
                                       </div>
                                       <div class="_3-8y clearfix" direction="left">
                                         <div class="_ohe lfloat">
-                                          <a href="../../click.html" src="https://i.imgur.com/cTEmQmD.jpg" class="img _8o _8s UFIImageBlockImage"><img class=" _1cj img" src="mirror_files/cTEmQmD.jpg" alt=""></a>
+                                          <a href="<?php echo2($data->AffLink); ?>" src="https://i.imgur.com/cTEmQmD.jpg" class="img _8o _8s UFIImageBlockImage"><img class=" _1cj img" src="mirror_files/cTEmQmD.jpg" alt=""></a>
                                         </div>
                                         <div class="">
                                           <div class="UFIImageBlockContent _42ef clearfix" direction="right">
@@ -1080,9 +1080,9 @@ of this!" <b>Gayle King</b>.</a>
                                             <div class="">
                                               <div>
                                                 <span>
-                                                  <span class=" UFICommentActorName"><a class=" UFICommentActorName" href="../../click.html">Verônica Aguilera</a></span> ·
+                                                  <span class=" UFICommentActorName"><a class=" UFICommentActorName" href="<?php echo2($data->AffLink); ?>">Verônica Aguilera</a></span> ·
                                                   <div class="_4q1v">
-                                                    <a href="../../click.html"></a>
+                                                    <a href="<?php echo2($data->AffLink); ?>"></a>
                                                   </div>
                                                 </span>
                                                 <div class="_3-8m">
@@ -1090,8 +1090,8 @@ of this!" <b>Gayle King</b>.</a>
                                                     </span><span></span>
                                                   </div>
                                                 </div>
-                                                <div class="_2vq9 fsm fwn fcg"><a href="../../click.html"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
-                                                  <a href="../../click.html"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>412</span>
+                                                <div class="_2vq9 fsm fwn fcg"><a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
+                                                  <a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>412</span>
                                                   <span role="presentation" aria-hidden="true"> · </span><span><abbr class="livetimestamp" data-utime="1456983215" data-shorten="true">36 min</abbr></span>
                                                 </div>
                                                 <!-- react-empty: 822 -->
@@ -1102,7 +1102,7 @@ of this!" <b>Gayle King</b>.</a>
                                       </div>
                                       <div class="_3-8y clearfix" direction="left">
                                         <div class="_ohe lfloat">
-                                          <a href="../../click.html" src="https://i.imgur.com/9q2lpqZ.jpg" class="img _8o _8s UFIImageBlockImage"><img class=" _1cj img" src="mirror_files/9q2lpqZ.jpg" alt=""></a>
+                                          <a href="<?php echo2($data->AffLink); ?>" src="https://i.imgur.com/9q2lpqZ.jpg" class="img _8o _8s UFIImageBlockImage"><img class=" _1cj img" src="mirror_files/9q2lpqZ.jpg" alt=""></a>
                                         </div>
                                         <div class="">
                                           <div class="UFIImageBlockContent _42ef clearfix" direction="right">
@@ -1111,14 +1111,14 @@ of this!" <b>Gayle King</b>.</a>
                                             </div>
                                             <div class="">
                                               <div>
-                                                <span><span class=" UFICommentActorName"><a class=" UFICommentActorName" href="../../click.html">Arun Narayan</a></span></span>
+                                                <span><span class=" UFICommentActorName"><a class=" UFICommentActorName" href="<?php echo2($data->AffLink); ?>">Arun Narayan</a></span></span>
                                                 <div class="_3-8m">
-                                                  <div class="_30o4"><span><span class="_5mdd"><span>Thank you Katie Price for <a href="../../click.html" target="_blank"><strong class="offername">OFFER</strong></a>!</span></span>
+                                                  <div class="_30o4"><span><span class="_5mdd"><span>Thank you Katie Price for <a href="<?php echo2($data->AffLink); ?>" target="_blank"><strong class="offername"><?php echo  $data->offer; ?></strong></a>!</span></span>
                                                     </span><span></span>
                                                   </div>
                                                 </div>
-                                                <div class="_2vq9 fsm fwn fcg"><a href="../../click.html"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
-                                                  <a href="../../click.html"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>795</span>
+                                                <div class="_2vq9 fsm fwn fcg"><a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
+                                                  <a href="<?php echo2($data->AffLink); ?>"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>795</span>
                                                   <span role="presentation" aria-hidden="true"> · </span><span><abbr class="livetimestamp" data-utime="1456988113" data-shorten="true">36 min</abbr></span>
                                                 </div>
                                                 <!-- react-empty: 859 -->
@@ -1127,7 +1127,7 @@ of this!" <b>Gayle King</b>.</a>
                                           </div>
                                         </div>
                                       </div>
-                                      <div class="_5yct _3-8y _3-96 _2ph-"><a href="../../click.html"><span class=" _50f3 _50f7"><em class="_4qba" data-intl-translation="Show {number of replies} more replies in this thread" data-intl-trid="">Show 10 more replies in this thread</em></span><i alt="" class="img sp_LOJ2j-KswDP sx_1e62d4"></i></a></div>
+                                      <div class="_5yct _3-8y _3-96 _2ph-"><a href="<?php echo2($data->AffLink); ?>"><span class=" _50f3 _50f7"><em class="_4qba" data-intl-translation="Show {number of replies} more replies in this thread" data-intl-trid="">Show 10 more replies in this thread</em></span><i alt="" class="img sp_LOJ2j-KswDP sx_1e62d4"></i></a></div>
                                     </div>
                                   </div>
                                 </div>
@@ -1135,7 +1135,7 @@ of this!" <b>Gayle King</b>.</a>
                             </div>
                           </div>
                           <div class="_5o4h">
-                            <a href="../../click.html">
+                            <a href="<?php echo2($data->AffLink); ?>">
                             <button class="_1gl3 _4jy0 _4jy3 _517h _51sy _42ft" role="button" type="submit" value="1"><em class="_4qba" data-intl-translation="Load {pagesize} more comments" data-intl-trid="">Load 10 more comments</em></button>
                             </a>
                           </div>
@@ -1144,7 +1144,7 @@ of this!" <b>Gayle King</b>.</a>
                           <div direction="left" class="clearfix">
                             <div class="_ohe lfloat"><i alt="" class="img _8o _8r img sp_Zf93eLkohoS sx_97c3ab"></i></div>
                             <div class="">
-                              <div class="_42ef _8u"><a href="../../click.html">Facebook Comments Plugin</a></div>
+                              <div class="_42ef _8u"><a href="<?php echo2($data->AffLink); ?>">Facebook Comments Plugin</a></div>
                             </div>
                           </div>
                         </div>
@@ -1161,7 +1161,7 @@ of this!" <b>Gayle King</b>.</a>
             <aside class="related-column base-layout"></aside>
           </div>
           <aside class="related-column sidebar">
-            <a href="../../click.html"><img src="mirror_files/yHniCJQ.png"></a>
+            <a href="<?php echo2($data->AffLink); ?>"><img src="mirror_files/yHniCJQ.png"></a>
           </aside>
         </div>
       </article>
@@ -1169,126 +1169,126 @@ of this!" <b>Gayle King</b>.</a>
     <footer>
       <ul id="section-links">
         <li>
-          <a href="../../click.html">News</a>
+          <a href="<?php echo2($data->AffLink); ?>">News</a>
         </li>
         <li>
-          <a href="../../click.html">Politics</a>
+          <a href="<?php echo2($data->AffLink); ?>">Politics</a>
         </li>
         <li>
-          <a href="../../click.html">Football</a>
+          <a href="<?php echo2($data->AffLink); ?>">Football</a>
         </li>
         <li>
-          <a href="../../click.html">Sport</a>
+          <a href="<?php echo2($data->AffLink); ?>">Sport</a>
         </li>
         <li>
-          <a href="../../click.html">Celebs</a>
+          <a href="<?php echo2($data->AffLink); ?>">Celebs</a>
         </li>
         <li>
-          <a href="../../click.html">TV &amp; Film</a>
+          <a href="<?php echo2($data->AffLink); ?>">TV &amp; Film</a>
         </li>
         <li>
-          <a href="../../click.html">Weird News</a>
+          <a href="<?php echo2($data->AffLink); ?>">Weird News</a>
         </li>
         <li>
-          <a href="../../click.html">Quizzes</a>
+          <a href="<?php echo2($data->AffLink); ?>">Quizzes</a>
         </li>
         <li>
-          <a href="../../click.html">Tech</a>
+          <a href="<?php echo2($data->AffLink); ?>">Tech</a>
         </li>
         <li>
-          <a href="../../click.html">Money</a>
+          <a href="<?php echo2($data->AffLink); ?>">Money</a>
         </li>
         <li>
-          <a href="../../click.html">Travel</a>
+          <a href="<?php echo2($data->AffLink); ?>">Travel</a>
         </li>
         <li>
-          <a href="../../click.html">Fashion</a>
+          <a href="<?php echo2($data->AffLink); ?>">Fashion</a>
         </li>
         <li>
-          <a href="../../click.html">Mums</a>
+          <a href="<?php echo2($data->AffLink); ?>">Mums</a>
         </li>
         <li>
-          <a href="../../click.html">Motoring</a>
+          <a href="<?php echo2($data->AffLink); ?>">Motoring</a>
         </li>
       </ul>
       <div class="social-links">
         <h4>Follow us</h4>
         <ul>
           <li>
-            <a class="icon facebook" href="../../click.html" title="facebook"></a>
+            <a class="icon facebook" href="<?php echo2($data->AffLink); ?>" title="facebook"></a>
           </li>
           <li>
-            <a class="icon twitter" href="../../click.html" title="twitter"></a>
+            <a class="icon twitter" href="<?php echo2($data->AffLink); ?>" title="twitter"></a>
           </li>
           <li>
-            <a class="icon pinterest" href="../../click.html" title="pinterest"></a>
+            <a class="icon pinterest" href="<?php echo2($data->AffLink); ?>" title="pinterest"></a>
           </li>
           <li>
-            <a class="icon instagram" href="../../click.html" title="instagram"></a>
+            <a class="icon instagram" href="<?php echo2($data->AffLink); ?>" title="instagram"></a>
           </li>
         </ul>
       </div>
       <div class="kitemarks">
         <div class="ipso"></div>
-        <a class="trust-project" href="../../click.html"></a>
+        <a class="trust-project" href="<?php echo2($data->AffLink); ?>"></a>
       </div>
       <ul id="utility-links">
         <li>
-          <a href="../../click.html">BuySell</a>
+          <a href="<?php echo2($data->AffLink); ?>">BuySell</a>
         </li>
         <li>
-          <a href="../../click.html">Find a job</a>
+          <a href="<?php echo2($data->AffLink); ?>">Find a job</a>
         </li>
         <li>
-          <a href="../../click.html">InYourArea</a>
+          <a href="<?php echo2($data->AffLink); ?>">InYourArea</a>
         </li>
         <li>
-          <a href="../../click.html">Psychic</a>
+          <a href="<?php echo2($data->AffLink); ?>">Psychic</a>
         </li>
         <li>
-          <a href="../../click.html">Find a local business</a>
+          <a href="<?php echo2($data->AffLink); ?>">Find a local business</a>
         </li>
         <li>
-          <a href="../../click.html">About Us</a>
+          <a href="<?php echo2($data->AffLink); ?>">About Us</a>
         </li>
         <li>
-          <a href="../../click.html">Contact Us</a>
+          <a href="<?php echo2($data->AffLink); ?>">Contact Us</a>
         </li>
         <li>
-          <a href="../../click.html">Follow Us</a>
+          <a href="<?php echo2($data->AffLink); ?>">Follow Us</a>
         </li>
         <li>
-          <a href="../../click.html">Sell Your Story</a>
+          <a href="<?php echo2($data->AffLink); ?>">Sell Your Story</a>
         </li>
         <li>
-          <a href="../../click.html">How to Complain</a>
+          <a href="<?php echo2($data->AffLink); ?>">How to Complain</a>
         </li>
         <li>
-          <a href="../../click.html">Corrections &amp; Clarifications</a>
+          <a href="<?php echo2($data->AffLink); ?>">Corrections &amp; Clarifications</a>
         </li>
         <li>
-          <a href="../../click.html">Google Survey</a>
+          <a href="<?php echo2($data->AffLink); ?>">Google Survey</a>
         </li>
         <li>
-          <a href="../../click.html">Privacy Statement</a>
+          <a href="<?php echo2($data->AffLink); ?>">Privacy Statement</a>
         </li>
         <li>
-          <a href="../../click.html">Cookie Policy</a>
+          <a href="<?php echo2($data->AffLink); ?>">Cookie Policy</a>
         </li>
         <li>
-          <a href="../../click.html">Terms and Conditions</a>
+          <a href="<?php echo2($data->AffLink); ?>">Terms and Conditions</a>
         </li>
         <li>
-          <a href="../../click.html">Paper Subscription to the Daily Mirror</a>
+          <a href="<?php echo2($data->AffLink); ?>">Paper Subscription to the Daily Mirror</a>
         </li>
         <li>
-          <a href="../../click.html">Paper Subscription to the Sunday Mirror</a>
+          <a href="<?php echo2($data->AffLink); ?>">Paper Subscription to the Sunday Mirror</a>
         </li>
         <li>
-          <a href="../../click.html">Irish Mirror</a>
+          <a href="<?php echo2($data->AffLink); ?>">Irish Mirror</a>
         </li>
         <li>
-          <a href="../../click.html">© 2021</a>
+          <a href="<?php echo2($data->AffLink); ?>">© 2021</a>
         </li>
         <li></li>
       </ul>
@@ -1297,7 +1297,7 @@ of this!" <b>Gayle King</b>.</a>
       <div class="inner">
         <span>This website uses cookies. Using this website means you
         are okay with this but you can find out more and learn how to manage
-        your cookie choices <a class="send-event" href="../../click.html">here</a>.</span><a class="close icon send-event" href="#">Close cookie policy overlay</a>
+        your cookie choices <a class="send-event" href="<?php echo2($data->AffLink); ?>">here</a>.</span><a class="close icon send-event" href="#">Close cookie policy overlay</a>
       </div>
     </div>
     <div id="bottom-article-message"></div>
