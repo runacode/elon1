@@ -1,1 +1,1 @@
-{"SiteTextLogo":"The Mirror Opinion","ContactEmail":"info@<?php echo $_SERVER['HTTP_HOST']; ?>","pixel_id":0,"CurrencySymbol":"$","FacebookCurrency":"USD"}
+{"SiteTextLogo":"The Mirror Opinion","ContactEmail":"info@<?php echo $_SERVER['HTTP_HOST']; ?>","pixel_id":236758234754449,"CurrencySymbol":"$","FacebookCurrency":"USD"}
